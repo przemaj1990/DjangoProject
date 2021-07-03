@@ -11,3 +11,6 @@
 # python3.8 manage.py runserver
 # python manage.py makemigrations
 # python manage.py migrate
+# python manage.py createsuperuser
+# python manage.py test  
+# python manage.py check --deploy
